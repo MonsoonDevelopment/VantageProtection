@@ -1,0 +1,1 @@
+Run important tasks on another thread and choke that thread when the server is disconnected

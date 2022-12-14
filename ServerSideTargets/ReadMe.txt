@@ -1,0 +1,1 @@
+This target manager allows the vantage backend to manage your clients targets, therefore if your client disconnects to the backend targets won't update

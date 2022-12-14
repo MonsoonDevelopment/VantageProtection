@@ -1,0 +1,1 @@
+This is a constants manager, replace constants inside your client and minecraft with these values, they're loaded on launch so the client will need to be dumped to get them

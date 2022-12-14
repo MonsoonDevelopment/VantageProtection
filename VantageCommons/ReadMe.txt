@@ -1,0 +1,1 @@
+Anything inside the java folder is vantage backend and client commons, this may be updated frequently

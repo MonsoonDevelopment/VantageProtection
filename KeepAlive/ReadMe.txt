@@ -1,0 +1,1 @@
+This is required to keep the client connected to the backend, if you don't respond to keep alives the client will be disconnected
